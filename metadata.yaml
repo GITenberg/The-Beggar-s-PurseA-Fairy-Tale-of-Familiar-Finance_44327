@@ -1,0 +1,30 @@
+_repo: The-Beggar-s-PurseA-Fairy-Tale-of-Familiar-Finance_44327
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, Samuel Hopkins
+    alias: Fabian, Warner
+    birthdate: 1871
+    deathdate: 1958
+    gutenberg_agent_id: '1635'
+    url: http://www.gutenberg.org/2009/agents/1635
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Hopkins_Adams
+description: ''
+gutenberg_issued: '2013-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Finance, Personal -- Fiction'
+- !lcsh 'World War, 1914-1918 -- United States -- Fiction'
+- !lcsh 'Short stories'
+title: 'The Beggar''s Purse: A Fairy Tale of Familiar Finance'
+url: http://www.gutenberg.org/ebooks/44327
